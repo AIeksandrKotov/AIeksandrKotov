@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="400" width="400" src="https://github.com/user-attachments/assets/216fd31c-82ee-4102-95ee-758f71e7792b"  />
+  <img height="400" width="400" src="https://github.com/AIeksandrKotov/AIeksandrKotov/blob/main/skill-issue-tetris.gif"  />
 </div>
 
 ###
