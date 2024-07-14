@@ -1,10 +1,14 @@
-
 ###
 
 <h1 align="center">👋 Hey, everybody!</h1>
+
+###
+
 <div align="center">
-  <img height="400" width="400" src="https://github.com/user-attachments/assets/59d53b48-27dc-4cd2-ad17-733d060399e5"  />
+  <img height="400" width="400" src="https://github.com/user-attachments/assets/216fd31c-82ee-4102-95ee-758f71e7792b"  />
 </div>
+
+###
 
 <h3 align="center">
   <a href="https://www.instagram.com/aleksandrkotov89/">
